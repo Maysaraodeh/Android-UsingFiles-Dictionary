@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"Dictionary "</string>
+    <string name="save_data">Save Data</string>
+    <string name="show_all_words">Show All Words</string>
+    <string name="enter_a_word">Enter A Word</string>
+    <string name="enter_the_meaning_of_the_word">Enter The Meaning Of The Word</string>
+</resources>
